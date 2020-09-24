@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Michelle's New Static Webapp Site"
+title = "Michelle's Blog Site"
 theme = "ananke"
